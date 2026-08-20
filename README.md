@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @codeWithDSP
-- 👀 I’m interested in ...coding like web development and application or app development
-- 🌱 I’m currently learning ...full stack development
-- 💞️ I’m looking to collaborate on ... some good frontend developers can be friend becuase i face many problems in advance CSS and JS.
-- 📫 How to reach me ... you can email and contact me : divyanshuproa2b2@gmail.com
+DIVYANSHU PRAJAPATI
+CSE Student • Builder • Curious Human
 
-<!---
-codeWithDSP/codeWithDSP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+┌─────────────────────────────────────┐
+│                                     │
+│   learning → building → breaking    │
+│   → understanding → repeating       │
+│                                     │
+└─────────────────────────────────────┘
+
+CURRENTLY EXPLORING
+
+→ C++ / DSA
+→ Full-stack development
+→ AI / ML
+→ Mathematics
+→ Physics
+→ Quantum Computing
+
+BUILDING
+
+→ [your current project]
+→ [your current experiment]
+→ [your next crazy idea]
+
+I don't have everything figured out.
+I'm here to figure it out.
+
+🌐 Portfolio
+💼 LinkedIn
+📫 Email
