@@ -1,31 +1,7 @@
-DIVYANSHU PRAJAPATI
-CSE Student • Builder • Curious Human
+Hey, I’m Divyanshu 👋
 
-┌─────────────────────────────────────┐
-│                                     │
-│   learning → building → breaking    │
-│   → understanding → repeating       │
-│                                     │
-└─────────────────────────────────────┘
+CSE student, learning by building.
 
-CURRENTLY EXPLORING
+Currently exploring web development, C++, AI/ML, and a few things beyond.
 
-→ C++ / DSA
-→ Full-stack development
-→ AI / ML
-→ Mathematics
-→ Physics
-→ Quantum Computing
-
-BUILDING
-
-→ [your current project]
-→ [your current experiment]
-→ [your next crazy idea]
-
-I don't have everything figured out.
-I'm here to figure it out.
-
-🌐 Portfolio
-💼 LinkedIn
-📫 Email
+Still figuring things out.
